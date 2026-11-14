@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-cyber-sast",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_cyber_sast",
+      "description": "Execute cyber-sast MCP tool"
+    }
+  ]
+}
